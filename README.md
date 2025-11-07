@@ -1,4 +1,4 @@
-# Hey there, I'm [Mohamed Marouf]👋
+# Hey there, I'm Mohamed Marouf👋
 
 **Full-stack Web Developer · CS Student · Coffee Lover ☕**
 
