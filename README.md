@@ -1,58 +1,18 @@
-# Hey there, I'm Mohamed Marouf👋
+# 👋 Hey there, I'm Mohamed Marouf!
+Architect of the digital unknown. Building high-impact websites, apps, and SaaS products from , Egypt.
 
-**Full-stack Web Developer · CS Student · Coffee Lover ☕**
+![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
+![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+![React.js](https://img.shields.io/badge/Library-ReactJs-61DAFB?logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Library-Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
+![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
+![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
-💼 **Current:** Software Engineer at [Almadrsa](https://almdrasa.com)
+I specialize in crafting scalable, impactful solutions—from quirky side projects to industry-changing platforms. My work blends a passion for web architecture and developer experience, turning complex challenges into opportunities.
 
-<p align="center">
-  <!-- <img src="https://komarev.com/ghpvc/?username=mohamedmarouf&style=for-the-badge" alt="Profile Views"/> -->
-</p>mo
+🌱 Continuously learning and empowering others through mentorship and collaboration.
 
-## 🚀 About Me
-
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
-
-I am a Software Engineer skilled in React, Next.js, WordPress, PHP, and more. <br/>
-I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
-
-
-
-
-<br clear="right"/>
-
-## 🔧 My Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmarouf&layout=compact&theme=dark" alt="Top Languages"/> -->
-</div>
-
-## 🎯 LeetCode Heatmap
-
-<div align="center">
-  <!-- <img src="https://leetcard.jacoblin.cool/mohamedmaroufmahmoud?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/> -->
-</div>
-
-
-## 🔗 Connect with Me
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yousefdergham.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yousefdergham)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YousefMohamed01)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yousefdergham)
-
-</div>
+🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence.
